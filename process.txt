@@ -1,0 +1,22 @@
+1) first login the user like: 
+
+{
+    "user":{
+    "name":"aman dighe"
+   }
+
+}
+
+2) copy the access token
+
+3)access to protected route = headers= paste the token
+
+4)then goto back and copy the Refresh token
+
+5) access the refresh router 
+
+{
+    "token":"paste refresh token"
+}
+
+6)copy the  new access token and goto the protected=headers= paste the token
